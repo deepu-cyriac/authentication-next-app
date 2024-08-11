@@ -16,3 +16,4 @@ How authentication works?
   . Also @lucia-auth/adapter-sqlite packages is used which enables lucia to store sessions in sqlite db
 
 - Alternative is NextAuth.js
+  . Unofficial
